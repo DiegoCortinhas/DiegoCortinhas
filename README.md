@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/DiegoCortinhas/](https://www.linkedin.com/in/DiegoCortinhas/)
 
-- ⚡ Fun fact **33 years old with 20s spirit**
+- ⚡ Fun fact **Engineer, developer and Karate Yellow Belt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
