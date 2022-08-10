@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [BootCamp Java Alura](https://github.com/DiegoCortinhas/bootcampJava_aulas) and [Sports Analytics - Computer Science graduation thesis](https://github.com/DiegoCortinhas/sportsAnalytics)
+- 🔭 I’m currently working on [BootCamp Dio - Spring Framework Experience](https://github.com/DiegoCortinhas/desafio-dio-POO) 
 
 - 🌱 I’m currently learning **Spring, Java and Python**
 
