@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Diego Cortinhas</h1>
-<h3 align="center">Telecommunication Engineer, Computer Scientist and Backend student/developer from Brasil</h3>
+<h3 align="center">Telecommunication Engineer, Computer Scientist and Fullstack student/developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegocortinhas&label=Profile%20views&color=0e75b6&style=flat" alt="diegocortinhas" /> </p>
 
 
 
-- 🔭 I’m currently working on [BootCamp Dio - Spring Framework Experience](https://github.com/DiegoCortinhas/desafio-dio-POO) 
+- 🔭 I’m currently working on [Pós Tech360 RocketSeat](https://github.com/DiegoCortinhas/01-Fundamentos-nodeJs) 
 
-- 🌱 I’m currently learning **Spring, Java and Python**
+- 🌱 I’m currently learning **JS -> NodeJS and React. Experience with Springboot, Java and Python**
 
-- 👯 I’m looking to collaborate on **Projects using Python or Java**
+- 👯 I’m looking to collaborate on **Projects using JS, Python or Java**
 
-- 🤝 I’m looking for help with **Python or Java projects**
+- 🤝 I’m looking for help with **JS, Python or Java projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DiegoCortinhas](https://github.com/DiegoCortinhas)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/DiegoCortinhas/](https://www.linkedin.com/in/DiegoCortinhas/)
 
-- ⚡ Fun fact **Engineer, developer and Karate Orange Belt**
+- ⚡ Fun fact **Engineer, developer and Goju Ryu Karate Orange Belt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
